@@ -46,7 +46,7 @@ I'm a passionate software developer specializing in Artificial Intelligence, Mac
 
 ## 📈 GitHub Stats
 
-![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tahahassan92003&show_icons=true&theme=radical)
+![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tahahassan92003&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahahassan92003&layout=compact&theme=radical)
 
