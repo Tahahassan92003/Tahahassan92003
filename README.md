@@ -16,9 +16,10 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadYehya&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" alt="mohammadyehya" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadYehya&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=90"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadTahaHassan&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" alt="SyedMuhammadTahaHassan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMuhammadTahaHassan&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=90"/>
 </p>
+
 
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">My tech stack enables me to take projects from concept to completion with ease. I handle responsive frontends, robust backends, and scalable data management through databases and cloud hosting. With expertise in data science and machine learning, I build intelligent features and predictive models. My creative skills in UI design and video editing add a polished finish, while robotics and IoT allow me to prototype physical systems. DevOps tools and command-line utilities streamline my workflow, ensuring efficient development, experimentation, and deployment of innovative solutions.</p>
