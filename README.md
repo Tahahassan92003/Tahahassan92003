@@ -4,8 +4,6 @@ I'm a passionate software developer specializing in Artificial Intelligence, Mac
 
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">My tech stack enables me to take projects from concept to completion with ease. I handle responsive frontends, robust backends, and scalable data management through databases and cloud hosting. With expertise in data science and machine learning, I build intelligent features and predictive models. My creative skills in UI design and video editing add a polished finish, while robotics and IoT allow me to prototype physical systems. DevOps tools and command-line utilities streamline my workflow, ensuring efficient development, experimentation, and deployment of innovative solutions.</p>
-<details align="center">
-  <summary>Click for more Details...</summary>
   <p align="center">
       <h3>Programming Languages</h3>
       <p align="center">
@@ -144,7 +142,7 @@ I'm a passionate software developer specializing in Artificial Intelligence, Mac
         <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
       </p>
   </p>
-</details>
+
 
 
 ## 🚀 Projects
