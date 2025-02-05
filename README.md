@@ -187,7 +187,7 @@ Implemented a quantum error correction algorithm using repetition codes in Qiski
 
 FAST (NUCES), September 2021 — June 2025
 
-GPA: 3.2/4.00
+
 
 ## 📫 Contact
 
