@@ -3,15 +3,6 @@
 I'm a passionate software developer specializing in Artificial Intelligence, Machine Learning, DevOps, and full-stack web development. I thrive on building innovative solutions, tackling complex challenges, and exploring advancements in technology to drive impactful results.
 
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tahahassan92003&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" alt="Taha Hassan's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahahassan92003&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=90"/>
-  <!-- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tahahassan92003&theme=monokai" alt="Repositories per Language"/>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tahahassan92003&theme=monokai" alt="Most Committed Languages"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahahassan92003&theme=monokai&hide_border=false" alt="GitHub Streak"/> -->
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Tahahassan92003&theme=monokai&margin-w=5"/>
-</p>
 
 
 
